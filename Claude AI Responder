@@ -1,0 +1,2 @@
+- name: Claude AI Responder
+  uses: dragon-ai-agent/run-claude-obo@v1.0.2
